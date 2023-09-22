@@ -1,0 +1,5 @@
+Git clone - clonar repositorio
+git status - ficheiros que não foram sincronizados localmente
+git add -A - adicionar esses ficheiros
+git commit -m "mensagem" - criar um commit
+git push - enviar pro coisa
