@@ -1,3 +1,3 @@
 # cpp-lessons
-lições de c++
-update: coisas coisas mais coisas
+lições de c++ do sr paulinho leite
+
