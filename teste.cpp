@@ -1,6 +1,11 @@
 #include <iostream>
 #include <cmath>
 #include "mycontinhas.h"
+#include "btchesnumber.h"
+#include "compare.h"
+#include "raio.h"
+#include "somatoria.h"
+
 using namespace std;
 
 //variaveis
@@ -13,6 +18,12 @@ int numeroDeBitches;
 
 
 
+int main(){
 
+
+
+
+
+}
 
 

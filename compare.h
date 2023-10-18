@@ -2,7 +2,7 @@
 using namespace std;
 
 int a , b;
-int main(){
+int compare(){
     cout << "Introduza numero a\n";
     cin >> a;
     cout << "Introduza numero b\n";

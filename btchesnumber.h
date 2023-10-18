@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int bitchesnumber()
 {
     cout << "Hello World!\n";
     cout << "I'm a C++ program\n";
