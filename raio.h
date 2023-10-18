@@ -10,7 +10,5 @@ int raio(){
     double piradius = pi*radius;
     double solution = piradius*radius;
     cout << solution;
-
-
-
+    return 0;
 }
