@@ -11,7 +11,7 @@ int compare(){
     cout << a << " é maior que " << b << endl;
     else if(a < b)
     cout << a << " é menor que " << b << endl;
-    else if(a = b)
+    else if(a == b)
     cout << "a e b têm o mesmo valor" << endl;
     return 0;
 }
