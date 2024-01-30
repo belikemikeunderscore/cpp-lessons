@@ -9,6 +9,7 @@ int main(){
     cout << ptr << "\n"; //returns the address of the ptr string
     cout << *ptr << "\n"; //returns the content on the ptr address
     cout << &ptr << "\n"; //returns the address that was pointed to the food variable
-    return 0;
+    return 0; //3 weeks later i realised this shit is confusing as fuck
+    
 
 }
