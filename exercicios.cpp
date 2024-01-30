@@ -30,7 +30,7 @@ void comparar() {
 
 
 void multiplicacao() {
-    int = fatormultiplicacao;
+    int fatormultiplicacao;
     cout << "digite o numero que quer multiplicar\n";
     cin >> fatormultiplicacao;
 
